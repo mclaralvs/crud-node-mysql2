@@ -1,0 +1,14 @@
+{
+  "name": "atv-iv",
+  "version": "1.0.0",
+  "description": "Atividade IV da disciplina Desenvolvimento Web II.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Clara Alves de Faria",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.3.3"
+  }
+}
